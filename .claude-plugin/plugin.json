@@ -1,0 +1,10 @@
+{
+  "name": "benchmark-letterario-llm",
+  "description": "Pone dieci domande su cultura letteraria, bibliografie e giudizio critico, prima senza e poi con la ricerca web, per confrontare i modelli. Usa quando l'utente chiede di mettere alla prova o confrontare un LLM sulla cultura letteraria.",
+  "author": {
+    "name": "Tiziano Boccaccini"
+  },
+  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/benchmark-letterario-llm",
+  "repository": "https://github.com/MicheDada21/benchmark-letterario-llm",
+  "license": "MIT"
+}
