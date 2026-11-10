@@ -1,6 +1,6 @@
 {
   "name": "benchmark-letterario-llm",
-  "description": "Pone dieci domande su cultura letteraria, bibliografie e giudizio critico, prima senza e poi con la ricerca web, per confrontare i modelli. Usa quando l'utente chiede di mettere alla prova o confrontare un LLM sulla cultura letteraria.",
+  "description": "Asks ten questions on literary culture, bibliographies and critical judgment, first without and then with web search. Use when testing an LLM or comparing several models on how well they know literature.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
