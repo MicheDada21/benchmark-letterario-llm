@@ -3,7 +3,7 @@ name: benchmark-letterario-llm
 description: "Asks ten questions on literary culture, bibliographies and critical judgment, first without and then with web search. Use when testing an LLM or comparing several models on how well they know literature."
 ---
 
-# Misura la cultura letteraria degli LLM
+# Benchmark letterario LLM
 
 ## Senza web
 
