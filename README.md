@@ -2,7 +2,7 @@
 
 Misura le risposte di un LLM con e senza web su cultura letteraria, bibliografie, giudizio critico e riconoscimento degli errori.
 
-Fa parte della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library), dove la pagina di riferimento è [Misura la cultura letteraria degli LLM](https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/benchmark-letterario-llm). Il repo contiene una copia della skill, rigenerata a ogni aggiornamento della libreria.
+Fa parte della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library), dove la pagina di riferimento è [Benchmark letterario LLM](https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/benchmark-letterario-llm). Il repo contiene una copia della skill, rigenerata a ogni aggiornamento della libreria.
 
 ## Installare
 
